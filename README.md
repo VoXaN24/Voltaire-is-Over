@@ -29,6 +29,7 @@
 * 1 attempt every 5 seconds
 * 98% correct answers
 * don't work for validation
+* do the test on the tab opened by chromedriver otherwise it will not be taken into account by the program !
 
 -----
 
