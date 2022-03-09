@@ -59,7 +59,7 @@ class Voltaire:
         reponses = [x for x in reponses if "\\x3C" in x]
 
         input(f' [{Fore.GREEN}*{Fore.RESET}] Ready ? (Enter to start)')
-        print(f' [{Fore.GREEN}*{Fore.RESET}] Test 7 Started with 1 attempt every 5 seconds !')
+        print(f' [{Fore.GREEN}*{Fore.RESET}] Test {self.nb} Started with 1 attempt every 5 seconds !')
 
         while True:
             try:
