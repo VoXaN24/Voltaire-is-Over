@@ -34,11 +34,6 @@
 -----
 
 
-
-## ☘️ - Help :
-```cs
- If you need help my discord : Bidouffe#3630
-```
 #
 
 <p align="center"> 
