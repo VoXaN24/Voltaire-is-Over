@@ -37,8 +37,8 @@
 #
 
 <p align="center"> 
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Bidouffe/Voltaire-is-Over">
-  <img alt="star" src="https://img.shields.io/github/stars/Bidouffe/Voltaire-is-Over">
-  <img alt="commit" src="https://img.shields.io/github/last-commit/Bidouffe/Voltaire-is-Over">
-  <img alt="license" src="https://img.shields.io/github/license/Bidouffe/Voltaire-is-Over">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Sshinx/Keyllogs">
+  <img alt="star" src="https://img.shields.io/github/stars/Sshinx/Keyllogs">
+  <img alt="commit" src="https://img.shields.io/github/last-commit/Sshinx/Keyllogs">
+  <img alt="license" src="https://img.shields.io/github/license/Sshinx/Keyllogs">
 </p>
